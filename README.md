@@ -39,3 +39,7 @@ Componente Java: sp_intereses
 Nomenclatura de mensajes de commit y merge:
 
 Titulo:  [FuncionalidadTrabajada]:  [Commit/Merge]  [Estado];  [Fecha en dd/mm/aa]
+
+Documentacion importante para recurrir:
+https://firebase.google.com/docs/reference/android/com/google/firebase/auth/FirebaseAuth
+
